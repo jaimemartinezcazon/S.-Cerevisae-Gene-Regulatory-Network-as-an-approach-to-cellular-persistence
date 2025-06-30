@@ -1,0 +1,9 @@
+matplotlib
+networkx
+numba
+numpy
+pandas
+powerlaw
+scipy
+seaborn
+tqdm
