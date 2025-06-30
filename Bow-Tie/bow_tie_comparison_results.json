@@ -1,0 +1,38 @@
+{
+    "real_metrics": {
+        "N_nodes": 2519,
+        "L_edges": 12225,
+        "in_pct": 1.1512504962286623,
+        "scc_pct": 0.6748709805478365,
+        "out_pct": 76.33981738785232,
+        "others_pct": 21.83406113537118,
+        "ratio_in_scc": 2.1724137931034484,
+        "ratio_scc_out": 1.7228289131565262,
+        "average_dist_in_scc": 1.0689655172413792,
+        "average_dist_scc_out": 1.0800832033281331
+    },
+    "null_mean_metrics": {
+        "out_pct": 60.67332274712188,
+        "ratio_scc_out": 1.3284744377114872,
+        "average_dist_in_scc": 1.2081718850834644,
+        "in_pct": 0.9552600238189757,
+        "ratio_in_scc": 1.317278702871309,
+        "L_edges": 10883.672,
+        "others_pct": 38.019928543072645,
+        "average_dist_scc_out": 1.1974789717950551,
+        "scc_pct": 0.35148868598650257,
+        "N_nodes": 2519.0
+    },
+    "null_std_metrics": {
+        "out_pct": 20.19971657722943,
+        "ratio_scc_out": 0.43896143366040924,
+        "average_dist_in_scc": 0.2346982324402129,
+        "in_pct": 0.3751289790165754,
+        "ratio_in_scc": 0.4459486023872824,
+        "L_edges": 28.25654642733255,
+        "others_pct": 20.30877590805815,
+        "average_dist_scc_out": 0.17803384902291347,
+        "scc_pct": 0.20292268531248087,
+        "N_nodes": 0.0
+    }
+}
