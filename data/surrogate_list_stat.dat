@@ -1,0 +1,10 @@
+ clustering spectrum
+3-cycle                     1 +/-    1.273
+3-nocycle                3563 +/-  368.038
+4-1biflow                   0 +/-    1.107
+4-1biout                  111 +/-  111.951
+4-1biin                     1 +/-    2.094
+5-2bi                       0 +/-    0.425
+6-3bi                       0 +/-    0.045
+ 
+total number of triangles       3678 +/-  340.746
