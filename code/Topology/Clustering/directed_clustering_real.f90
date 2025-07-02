@@ -1,5 +1,5 @@
 !> @brief Program to analyze a single directed network.
-!> @author M. Ángeles Serrano Moral
+!> @author Modified from M. Ángeles Serrano Moral original script.
 !>
 !> @details This program reads a network from an edge list file, builds an
 !>          adjacency list structure, and counts the abundance of various
