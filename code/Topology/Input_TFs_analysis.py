@@ -3,7 +3,7 @@ Author: Jaime Martínez Cazón
 
 Description:
 This script analyzes and compares the regulatory influence of two distinct sets
-of transcription factors (TFs): those associated with logarithmic growth phase
+of input transcription factors (TFs), defined as having k_in=0: those associated with logarithmic growth phase
 and those associated with starvation conditions. For each set of TFs, it
 calculates two key metrics based on their outgoing connections in the Gene
 Regulatory Network:
