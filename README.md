@@ -157,4 +157,6 @@ This project is distributed under the MIT License.
 
 ## Contact
 
-Jaime Martínez Cazón – `jmartica662@alumnes.ub.edu`
+Jaime Martínez Cazón 
+Academic mail: `jmartica662@alumnes.ub.edu` 
+Personal mail: `jaimemartinezcazon@gmail.com`  
