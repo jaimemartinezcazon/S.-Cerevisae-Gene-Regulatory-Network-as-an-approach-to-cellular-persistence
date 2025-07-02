@@ -138,7 +138,7 @@ It would be interesting to compare:
 ## Data Sources
 
 -   **Gene Regulatory Network (GRN):** The network is a state-of-the-art reconstruction for *S. cerevisiae* from [Jackson et al. (2020), *eLife*](https://elifesciences.org/articles/51254).
--   **Candidate Gene Proteomics Data:** Candidate genes were selected from single-cell proteomics data available in the [YeastRGB](https://www.nature.com/articles/nchembio.2147) and [LoQate](https://www.jcb.org/content/200/6/839) databases.
+-   **Candidate Gene Proteomics Data:** Candidate genes were selected from single-cell proteomics data available in the [YeastRGB](https://www.nature.com/articles/s41589-020-0576-z) and [LoQate](https://rupress.org/jcb/article/200/6/839/37333/A-novel-single-cell-screening-platform-reveals) databases.
 
 ## Key Findings
 
