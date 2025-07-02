@@ -59,11 +59,20 @@ We divide the scripts in two categories:
 
 ### 1. Topological Analysis ("Topology" folder)
 
-Open and run the notebook `notebooks/01_Topological_Analysis.ipynb`. This notebook performs the following steps:
--   Loads the network from the `data/` directory.
--   Analyzes local network properties such as degree distribution, clustering, and assortativity.
--   Analyzes global network properties, including the bow-tie decomposition and community detection.
--   Generates figures summarizing the network's topology.
+We perform different topological analysis:
+
+1º Clustering analysis
+2º Degree analysis
+3º Modularity analysis
+4º Null models construction
+5º Assortativity analysis
+6º Bow-Tie structure
+7º Centrality measures
+8º Network load from original paper
+9º Plot the GRN
+10º Reciprocity analysis
+11º Input TFs analysis
+
 
 ### 2. Dynamical Simulations ("Dynamics" folder)
 
