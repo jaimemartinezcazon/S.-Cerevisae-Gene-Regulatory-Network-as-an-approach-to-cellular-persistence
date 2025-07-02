@@ -100,6 +100,7 @@ This approach assumes that nodes with more regulators (e.g., hubs) are harder to
 However, we do **not** use this rule in our study because:
 - It assumes that more regulators always imply a higher activation threshold.
 - This is not biologically generalizable. For example, a gene could be strongly inhibited by a **single** regulator, regardless of how many others exist.
+- Biological processes are typically non-linear, so using the simplest possible model is often the best approach. 
 
 ---
 
