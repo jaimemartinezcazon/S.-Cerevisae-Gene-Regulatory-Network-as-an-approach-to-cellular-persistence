@@ -21,15 +21,15 @@ The project is organized as follows:
 ```
 .
 ├── data/
-│   ├── S_cerevisiae_GRN.gml
-│   └── persistence_candidates.csv
-├── notebooks/
-│   ├── 01_Topological_Analysis.ipynb
-│   └── 02_Dynamical_Simulation.ipynb
-├── figures/
-│   └── (folder for generated figures)
-├── requirements.txt
-└── README.md
+│ 
+├── code/
+│   ├── Topology/
+│   └── Dynamics/
+│ 
+├── .gitignore 
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ## Installation
@@ -55,9 +55,9 @@ To run the analyses, you will need Python 3.8 or higher. Using a virtual environ
 
 ## Usage
 
-The analyses are implemented in Jupyter Notebooks for clarity and ease of execution.
+We divide the scripts in two categories:
 
-### 1. Topological Analysis
+### 1. Topological Analysis ("Topology" folder)
 
 Open and run the notebook `notebooks/01_Topological_Analysis.ipynb`. This notebook performs the following steps:
 -   Loads the network from the `data/` directory.
@@ -65,7 +65,7 @@ Open and run the notebook `notebooks/01_Topological_Analysis.ipynb`. This notebo
 -   Analyzes global network properties, including the bow-tie decomposition and community detection.
 -   Generates figures summarizing the network's topology.
 
-### 2. Dynamical Simulation
+### 2. Dynamical Simulations ("Dynamics" folder)
 
 Open and run the notebook `notebooks/02_Dynamical_Simulation.ipynb`. This notebook:
 -   Implements the Boolean network model with a majority-rule update scheme and asynchronous updates.
