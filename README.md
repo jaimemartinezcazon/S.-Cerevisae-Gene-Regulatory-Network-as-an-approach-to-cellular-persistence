@@ -10,7 +10,7 @@ Cellular persistence is a phenomenon where a subpopulation of cells transiently 
 
 This project is divided into two main analytical parts:
 
-1. **Single cell data analysis**: Filtering of YeastRGB and LoQate single cell proteomics libraries in order selecto potential persister gene candidates.
+1. **Single cell data analysis**: Filtering of YeastRGB and LoQate single cell proteomics libraries in order select potential persister gene candidates.
 
 2.  **Topological Network Analysis**: This involves the structural characterization of the *S. cerevisiae* Gene Regulatory Network (GRN) to understand the framework that governs information flow and cellular dynamics. We analyze local properties (e.g., degree distribution, clustering) and global features (e.g., bow-tie architecture, functional communities).
 
