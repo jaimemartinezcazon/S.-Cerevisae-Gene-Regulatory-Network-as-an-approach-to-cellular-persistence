@@ -67,7 +67,7 @@ We divide the scripts into two categories:
 This folder contains scripts for various topological analyses:
 
 1. Data preprocessing of YeastRGB
-2.  "         "       "  LoQate
+2. Data preprocessing of LoQate
 3.  Candidates selection  
 
 The YeastRGB .csv file used is available in the [YeastRGB](https://www.nature.com/articles/s41589-020-0576-z) 
