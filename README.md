@@ -22,14 +22,14 @@ The project is organized as follows:
 
 ```
 .
-├── data/
-│
-├── figures/
-│ 
 ├── code/
 │   ├── Candidates/
 │   ├── Topology/
 │   └── Dynamics/
+│
+├── data/
+│
+├── figures/
 │ 
 ├── .gitignore 
 ├── LICENSE
