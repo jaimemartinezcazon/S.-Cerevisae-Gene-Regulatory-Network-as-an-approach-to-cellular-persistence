@@ -1,6 +1,6 @@
 # A Gene Regulatory Network Approach to Cellular Persistence in S. cerevisiae
 
-This repository contains the source code and data for the Master's Thesis titled "A gene regulatory network approach to cellular persistence in *S. cerevisiae*".
+This repository contains the source code and data for the Master's Thesis titled "A gene regulatory network approach to cellular persistence in *S. cerevisiae*". The full thesis can be downloaded [here](https://github.com/jaimemartinezcazon/S.-Cerevisae-Gene-Regulatory-Network-as-an-approach-to-cellular-persistence/raw/main/TFM%20-%20S.%20cerevisiae%20GRN%20approach%20to%20persistence.pdf).
 
 ## Abstract
 
@@ -23,6 +23,8 @@ The project is organized as follows:
 ```
 .
 ├── data/
+│
+├── figures/
 │ 
 ├── code/
 │   ├── Candidates/
@@ -32,6 +34,7 @@ The project is organized as follows:
 ├── .gitignore 
 ├── LICENSE
 ├── README.md
+├── TFM - S. cerevisiae GRN approach to persistence.pdf
 └── requirements.txt
 ```
 
