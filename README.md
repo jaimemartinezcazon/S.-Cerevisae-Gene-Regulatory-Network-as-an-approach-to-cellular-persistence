@@ -180,4 +180,4 @@ This project is distributed under the MIT License.
 
 ## Contact
 
-Jaime Martínez Cazón - Academic mail: `jmartica662@alumnes.ub.edu` - Personal mail: `jaimemartinezcazon@gmail.com`  
+Jaime Martínez Cazón - Personal mail: `jaimemartinezcazon@gmail.com`  
