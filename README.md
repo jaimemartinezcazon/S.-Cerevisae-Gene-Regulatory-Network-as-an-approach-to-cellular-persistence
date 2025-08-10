@@ -44,8 +44,8 @@ To run the analyses, you will need Python 3.8 or higher. Using a virtual environ
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/jaimemartinezcazon/S.-Cerevisae-Gene-Regulatory-Network-as-an-approach-to-cellular-persistence
-    cd S.-Cerevisae-Gene-Regulatory-Network-as-an-approach-to-cellular-persistence
+    git clone https://github.com/jaimemartinezcazon/AMR-Persistence-Model
+    cd AMR-Persistence-Model
     ```
 
 2.  Create and activate a virtual environment:
